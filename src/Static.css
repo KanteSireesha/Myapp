@@ -1,0 +1,24 @@
+.H {
+  border: 2px, solid;
+  background-color: beige;
+  text-align: center;
+  height: 250px;
+}
+.S {
+  border: 2px, solid;
+  background-color: brown;
+
+  height: 150px;
+}
+.P {
+  border: 2px, solid;
+  background-color: cadetblue;
+  text-align: center;
+  height: 500px;
+}
+.Three {
+  border: 2px, solid;
+  background-color: aquamarine;
+  text-align: center;
+  height: 50px;
+}

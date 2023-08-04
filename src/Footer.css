@@ -1,0 +1,10 @@
+.footer {
+  background-color: cadetblue;
+}
+.footertext {
+  text-align: center;
+  padding: 6px;
+}
+.footertext a {
+  padding: 6px;
+}

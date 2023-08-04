@@ -1,0 +1,16 @@
+.student {
+  padding-left: 50px;
+  padding-right: 25px;
+}
+.student table {
+  background-color: whitesmoke;
+  width: 75%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.student td,
+th {
+  border: solid 1px green;
+  vertical-align: bottom;
+  height: 35px;
+}

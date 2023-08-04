@@ -1,0 +1,9 @@
+.menubar {
+  background-color: aqua;
+}
+.menutext {
+  text-align: center;
+}
+.menutext a {
+  padding: 8px;
+}

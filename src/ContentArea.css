@@ -1,0 +1,8 @@
+.contentarea {
+  background-color: burlywood;
+  text-align: center;
+}
+.contentarea img {
+  width: 20rem;
+  padding: 9px;
+}
